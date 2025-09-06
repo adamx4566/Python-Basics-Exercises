@@ -11,3 +11,9 @@ This repository serves as a personal practice space to:
 
 ## Technologies
 - Python 3.x  
+
+## Screenshot / Example
+```python
+# Simple example
+for i in range(5):
+    print("Hello, Python!", i)
